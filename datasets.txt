@@ -1,0 +1,16 @@
+Text Dataset:
+
+malicious_phish
+https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset
+
+
+Numeric:
+
+https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
+Rain in Australia
+
+
+
+IMAGE:
+faces-age-detection-dataset
+https://www.kaggle.com/datasets/arashnic/faces-age-detection-dataset
